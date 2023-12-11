@@ -1,0 +1,526 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/DesktopNav.js": {
+      "*": {
+        "id": "(sc_client)/./app/components/DesktopNav.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/Header.js": {
+      "*": {
+        "id": "(sc_client)/./app/components/Header.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/MobileNav.js": {
+      "*": {
+        "id": "(sc_client)/./app/components/MobileNav.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/hooks/AppContext.js": {
+      "*": {
+        "id": "(sc_client)/./app/hooks/AppContext.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/hooks/AuthProvider.js": {
+      "*": {
+        "id": "(sc_client)/./app/hooks/AuthProvider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/board/[boardName]/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/board/[boardName]/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/FeedbackItem.js": {
+      "*": {
+        "id": "(sc_client)/./app/components/FeedbackItem.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/account/new-board/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/account/new-board/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/account/AccountView.js": {
+      "*": {
+        "id": "(sc_client)/./app/account/AccountView.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/account/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/account/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/pricing/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/pricing/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/FaqQuestion.js": {
+      "*": {
+        "id": "(sc_client)/./app/components/FaqQuestion.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/help/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/help/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/subscription/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/subscription/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\components\\DesktopNav.js": {
+      "id": "(app-client)/./app/components/DesktopNav.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\components\\Header.js": {
+      "id": "(app-client)/./app/components/Header.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\components\\MobileNav.js": {
+      "id": "(app-client)/./app/components/MobileNav.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\hooks\\AppContext.js": {
+      "id": "(app-client)/./app/hooks/AppContext.js",
+      "name": "*",
+      "chunks": [
+        "app/help/page:static/chunks/app/help/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\hooks\\AuthProvider.js": {
+      "id": "(app-client)/./app/hooks/AuthProvider.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/account/page:static/chunks/app/account/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/account/page:static/chunks/app/account/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\page.js": {
+      "id": "(app-client)/./app/page.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\board\\[boardName]\\page.js": {
+      "id": "(app-client)/./app/board/[boardName]/page.js",
+      "name": "*",
+      "chunks": [
+        "app/board/[boardName]/page:static/chunks/app/board/[boardName]/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\components\\FeedbackItem.js": {
+      "id": "(app-client)/./app/components/FeedbackItem.js",
+      "name": "*",
+      "chunks": [
+        "app/board/[boardName]/page:static/chunks/app/board/[boardName]/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\account\\new-board\\page.js": {
+      "id": "(app-client)/./app/account/new-board/page.js",
+      "name": "*",
+      "chunks": [
+        "app/account/new-board/page:static/chunks/app/account/new-board/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\account\\AccountView.js": {
+      "id": "(app-client)/./app/account/AccountView.js",
+      "name": "*",
+      "chunks": [
+        "app/account/page:static/chunks/app/account/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\account\\page.js": {
+      "id": "(app-client)/./app/account/page.js",
+      "name": "*",
+      "chunks": [
+        "app/account/page:static/chunks/app/account/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\pricing\\page.js": {
+      "id": "(app-client)/./app/pricing/page.js",
+      "name": "*",
+      "chunks": [
+        "app/pricing/page:static/chunks/app/pricing/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\components\\FaqQuestion.js": {
+      "id": "(app-client)/./app/components/FaqQuestion.js",
+      "name": "*",
+      "chunks": [
+        "app/help/page:static/chunks/app/help/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\help\\page.js": {
+      "id": "(app-client)/./app/help/page.js",
+      "name": "*",
+      "chunks": [
+        "app/help/page:static/chunks/app/help/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\subscription\\page.js": {
+      "id": "(app-client)/./app/subscription/page.js",
+      "name": "*",
+      "chunks": [
+        "app/subscription/page:static/chunks/app/subscription/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\layout": {
+      "modules": [
+        "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\globals.css",
+        "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+      ],
+      "files": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\page": {
+      "modules": [],
+      "files": []
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\board\\[boardName]\\page": {
+      "modules": [],
+      "files": []
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\account\\new-board\\page": {
+      "modules": [],
+      "files": []
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\account\\page": {
+      "modules": [],
+      "files": []
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\pricing\\page": {
+      "modules": [],
+      "files": []
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\help\\page": {
+      "modules": [],
+      "files": []
+    },
+    "C:\\Users\\YCN\\Downloads\\feedbaord-boards 2\\social-boards\\app\\subscription\\page": {
+      "modules": [],
+      "files": []
+    }
+  }
+}
